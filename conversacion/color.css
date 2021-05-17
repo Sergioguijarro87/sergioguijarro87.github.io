@@ -1,0 +1,16 @@
+html{
+    margin: 0;
+    max-width: 100%;
+    min-height: 100%;
+}
+.izquierda{
+    border: 2px black solid;
+    background-color: yellow;
+    text-align: left;
+}
+.derecha{
+    border: 2px black solid;
+    text-align: right;
+    background-color: green;
+
+}
