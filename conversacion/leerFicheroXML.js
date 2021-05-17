@@ -15,4 +15,4 @@ function CargarFichero()
 {
 	loadDocA("conver.xml","xml")
 }
-setInterval(CargarFichero,2000)
+setInterval(CargarFichero,5000)
