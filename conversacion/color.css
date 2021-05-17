@@ -3,14 +3,22 @@ html{
     max-width: 100%;
     min-height: 100%;
 }
+.cont{
+    display:flex;
+    
+}
 .izquierda{
     border: 2px black solid;
     background-color: yellow;
     text-align: left;
+    max-width: 50px;
+    flex-direction:row;
 }
 .derecha{
     border: 2px black solid;
     text-align: right;
     background-color: green;
+    max-width: 50px;
+    flex-direction:row-reverse;
 
 }
