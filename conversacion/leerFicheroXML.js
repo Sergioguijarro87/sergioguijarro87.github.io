@@ -1,5 +1,6 @@
 function gestionarFicheroXML(xmlDoc){
 	let capaVacia = document.querySelector("#ficheroXML")
+	capaVacia.innerHTML =""
 	let conver = xmlDoc.querySelectorAll("linea")
 	for(let i=0; i<conver.length; i++)
 			if(i % 2 == 0 )
