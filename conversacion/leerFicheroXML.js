@@ -13,7 +13,6 @@ function gestionarFicheroXML(xmlDoc){
 }
 function CargarFichero()
 {
-	alert("recargo")
 	loadDocA("conver.xml","xml")
 }
 setInterval(CargarFichero,2000)
