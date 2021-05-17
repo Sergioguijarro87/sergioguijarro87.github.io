@@ -1,7 +1,9 @@
 .selecc{
     background-color: royalblue;
+    border: 2px solid black;
 }
-p{
+.bord{
+    background-color: yellow;
     border: 2px solid black;
    
 }
