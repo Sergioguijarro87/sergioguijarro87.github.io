@@ -4,21 +4,21 @@ html{
     min-height: 100%;
 }
 .cont{
-    display:flex;
-    
+    display: flex;
+    margin:auto;    
 }
 .izquierda{
     border: 2px black solid;
-    background-color: yellow;
+    background-color: #f5f786;
     text-align: left;
-    max-width: 50px;
-    flex-direction:row;
+    width: 200px;
+
 }
 .derecha{
+    flex-direction: row-reverse;
     border: 2px black solid;
     text-align: right;
-    background-color: green;
-    max-width: 50px;
-    flex-direction:row-reverse;
+    background-color: #82f0b3;
+    width: 200;
 
 }
