@@ -7,6 +7,9 @@ html{
     display: flex;
     margin:auto;    
 }
+.conti{
+flex-direction: column;
+}
 .izquierda{
     border: 2px black solid;
     background-color: #f5f786;
