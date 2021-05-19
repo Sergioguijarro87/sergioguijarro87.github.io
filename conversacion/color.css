@@ -17,13 +17,13 @@ flex-direction: column;
     border: 2px black solid;
     background-color: #f5f786;
     text-align: left;
-    width: 100px;
+    width: 200px;
     justify-content:flex-start;
 }
 .derecha{
     border: 2px black solid;
     text-align: right;
     background-color: #82f0b3;
-    width: 100px;
+    width: 200px;
     justify-content:flex-end;
 }
