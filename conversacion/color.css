@@ -3,6 +3,9 @@ html{
     max-width: 100%;
     min-height: 100%;
 }
+body{
+    margin:auto;
+}
 .cont{
     display: flex;
     margin:auto;    
