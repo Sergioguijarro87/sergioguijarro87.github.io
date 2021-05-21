@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-15"?> 
+<busquedapeliculas>
+	<cartelera>
+		<nombre>Cartelera</nombre>
+			<pelicula>
+				<nombre>pelicula 1</nombre>
+				<director>Director 1</director>
+				<fechaestreno>Fecha 1</fechaestreno>
+			</pelicula>
+			<pelicula>
+				<nombre>pelicula 2</nombre>
+				<director>Director 2</director>
+				<fechaestreno>Fecha 2</fechaestreno>
+			</pelicula>
+			<pelicula>
+				<nombre>pelicula 3</nombre>
+				<director>Director 3</director>
+				<fechaestreno>Fecha 3</fechaestreno>
+			</pelicula>
+	</cartelera>
+</busquedapeliculas>
