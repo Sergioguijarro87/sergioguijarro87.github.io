@@ -1,24 +1,15 @@
 html{
-    margin: 0;
-    max-width: 100%;
-    min-height: 100%;
+    margin: auto;
+    min-width: 100%;
 }
-.cont{
+body{
+    margin:auto;
     display: flex;
-    margin:auto;    
-}
-.izquierda{
-    border: 2px black solid;
-    background-color: #f5f786;
-    text-align: left;
-    width: 200px;
 
 }
-.derecha{
-    flex-direction: row-reverse;
-    border: 2px black solid;
-    text-align: right;
-    background-color: #82f0b3;
-    width: 200;
-
+#ficheroXML{
+    flex-direction: column;
+    border: 2px solid black;
+    background-color: burlywood;
+    border-radius: 10px;
 }
